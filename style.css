@@ -38,8 +38,6 @@ body {
     padding: 50px 40px;
     z-index: 10;
     color: #00ccff;
-    max-width: 600px;
-    width: 100%;
 }
 
 .form_container::before{
